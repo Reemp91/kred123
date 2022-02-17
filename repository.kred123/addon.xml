@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.kred123" name="[COLOR red][B]KodiRed[/B][/COLOR]Wizard Repository" version="1.0" provider-name="KodiRed">
-    <extension point="xbmc.addon.repository" name="[COLOR red][B]KodiRed[/B][/COLOR]Wizard Repository">
+<addon id="repository.kred123" name="[COLOR red][B]KodiRed[/B][/COLOR] Wizard Repository" version="1.0" provider-name="KodiRed">
+    <extension point="xbmc.addon.repository" name="[COLOR red][B]KodiRed[/B][/COLOR]  Repository">
         <dir minversion="18.0" maxversion="18.9.0">
             <info compressed="false">https://mailer.delivery/leia/zips/addons.xml</info>
             <checksum>https://mailer.delivery/leia/zips/addons.xml.md5</checksum>
