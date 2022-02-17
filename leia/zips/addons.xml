@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.kred123" name="[COLOR red]KodiRed[/COLOR] Wizard" version="1.0" provider-name="KodiRed">
+<addon id="plugin.program.kred123" name="[COLOR red]kred123[/COLOR]Wizard" version="1.4.9" provider-name="KodiRed">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.requests" />
@@ -22,7 +22,7 @@
         <reuselanguageinvoker>false</reuselanguageinvoker>
         <source>https://mailer.delivery/zips/repository.kred123/</source>
         <news>
-1.0.0
+1.4.9
  - Initial Commit
         </news>
         <assets>
